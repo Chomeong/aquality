@@ -1,0 +1,11 @@
+2024-07-10T17:05:13+00:00 WARNING The image upload failed: "Not Found", creating the product without image
+2024-07-10T17:05:13+00:00 WARNING The image upload failed: "Not Found", creating the product without image
+2024-07-10T17:05:13+00:00 WARNING The image upload failed: "Not Found", creating the product without image
+2024-07-10T17:05:14+00:00 WARNING The image upload failed: "Not Found", creating the product without image
+2024-07-10T17:05:14+00:00 WARNING The image upload failed: "Not Found", creating the product without image
+2024-07-10T17:05:14+00:00 WARNING The image upload failed: "Not Found", creating the product without image
+2024-07-10T19:56:35+00:00 INFO Payment gateway enabled: "Midtrans Specific: Card Payment"
+2024-07-10T19:56:38+00:00 INFO Payment gateway enabled: "Midtrans Specific: GoPay & QRIS"
+2024-07-10T20:10:09+00:00 INFO Payment gateway enabled: "Xendit"
+2024-07-10T20:10:09+00:00 INFO Payment gateway enabled: "Xendit"
+2024-07-10T20:22:31+00:00 INFO Payment gateway enabled: "Xendit Credit Card"
